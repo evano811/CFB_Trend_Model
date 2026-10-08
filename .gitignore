@@ -1,5 +1,16 @@
-# General
+# macOS
 .DS_Store
+
+# Local Python environment and caches
 .venv/
-.env/
-data/raw
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local credentials; permit a placeholder template
+.env
+.env.*
+!.env.example
+
+# Downloaded provider responses
+data/raw/
