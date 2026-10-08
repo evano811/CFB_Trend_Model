@@ -230,7 +230,7 @@ Product-owner priority order: usable guide, then reliable facts, then understand
 ## Project board and issues
 
 - **Issues:** <https://github.com/evano811/CFB_Trend_Model/issues>
-- **Board:** *link to be added once the project board is created* (REP-02 and REP-05 call for the README to link to it).
+- **Board:** <https://github.com/users/evano811/projects/4>
 
 ---
 
