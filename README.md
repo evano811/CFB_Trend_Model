@@ -123,6 +123,7 @@ CFB_Trend_Model/
 ├── data/            Reserved for local data samples (nothing committed yet)
 ├── src/             Reserved for application code (nothing committed yet)
 └── assets/          Reserved for project assets (nothing committed yet)
+└── tests/           Reserved for project tests (nothing committed yet)
 ```
 
 `data/`, `src/` and `assets/` are placeholders. Per the requirements, application directories, migrations, CI and deployment configuration arrive with later tickets, and unused services are not scaffolded in Week 1.
